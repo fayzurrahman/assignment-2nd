@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 90px;
+}
+#nav-font-color{
+    color: #3C3C3C;
+}
+.nike-react-color{
+    color: #FA804C;
+}
+.infinity-color{
+    color: #363958
+    ;
+}
+.image-border{
+    border: 0;
+}
+.button-color{
+    background-color: blue;
+    height: 40px;
+}
+}
+.footer-border{
+    background-color: white;
+    border: 0;
+}
+.shoe-cart-border{
+    border: 0;
+    background-color: white;
+}
+.prize{
+    color: orange;
+    font-size: 36px;
+    font-style: bold;
+}
+.float{
+    float: right;
+    display: inline;
+    
+}
